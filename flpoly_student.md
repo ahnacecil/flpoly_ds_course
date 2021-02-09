@@ -20,3 +20,13 @@ I am _passionate about_:
 - programming!
 
 - women in STEM! as shown in this website <https://www.floridapoly.edu>
+
+|**Prefix**|**Number**|*Name*|Credits|
+|:--------:|:--------:|:----:|:-----:|
+|COP|2073|Introduction to Data Science|3|
+|MAD|2104|Discrete Mathematics|3|
+|PHY|2049|Physics 2|3|
+|PHY|2049L|Physics 2 Lab|1|
+|STA|2023|Statistics 1|3|
+
+
